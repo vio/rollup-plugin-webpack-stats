@@ -47,7 +47,7 @@
   "module": "dist/rollup-plugin-webpack-stats.esm.js",
   "devDependencies": {
     "husky": "^8.0.3",
-    "rollup": "^3.10.1",
+    "rollup": "^3.19.1",
     "size-limit": "^8.2.4",
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
